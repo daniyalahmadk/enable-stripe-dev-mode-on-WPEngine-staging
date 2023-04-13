@@ -24,7 +24,7 @@ Once the plugin is activated and configured, it will automatically enable Stripe
 If you encounter any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request on the GitHub repository.
 
 ### License
-This plugin is released under the MIT License.
+This plugin is released under the GPL License.
 
 ### Support
 For any questions or support, please contact daniyal.ahmad1992@gmail.com.
